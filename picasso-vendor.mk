@@ -40,21 +40,20 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/picasso/proprietary/product/lib/libdpmframework.so:system/product/lib/libdpmframework.so \
     vendor/xiaomi/picasso/proprietary/product/lib/libdpmtcm.so:system/product/lib/libdpmtcm.so \
     vendor/xiaomi/picasso/proprietary/product/lib64/com.qualcomm.qti.ant@1.0.so:system/product/lib64/com.qualcomm.qti.ant@1.0.so \
-    vendor/xiaomi/picasso/proprietary/product/lib64/com.qualcomm.qti.ant@1.0.so:system/product/lib64/vendor.display.config@1.0 \
-    vendor/xiaomi/picasso/proprietary/product/lib64/com.qualcomm.qti.ant@1.0.so:system/product/lib64/vendor.display.config@1.1 \
-    vendor/xiaomi/picasso/proprietary/product/lib64/com.qualcomm.qti.ant@1.0.so:system/product/lib64/vendor.display.config@1.10 \
-    vendor/xiaomi/picasso/proprietary/product/lib64/com.qualcomm.qti.ant@1.0.so:system/product/lib64/vendor.qti.hardware.display.allocator@3.0.so \
-    vendor/xiaomi/picasso/proprietary/product/lib64/com.qualcomm.qti.ant@1.0.so:system/product/lib64/vendor.qti.hardware.display.allocator@1.0.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/vendor.display.config@1.0.so:system/product/lib64/vendor.display.config@1.0.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/vendor.display.config@1.1.so:system/product/lib64/vendor.display.config@1.1.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/vendor.display.config@1.0.so:system/product/lib64/vendor.display.config@1.10.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/vendor.qti.hardware.display.allocator@3.0.so:system/product/lib64/vendor.qti.hardware.display.allocator@3.0.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/vendor.qti.hardware.display.allocator@1.0.so:system/product/lib64/vendor.qti.hardware.display.allocator@1.0.so \
     vendor/xiaomi/picasso/proprietary/product/lib64/com.qualcomm.qti.dpm.api@1.0.so:system/product/lib64/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/xiaomi/picasso/proprietary/product/lib64/com.qualcomm.qti.ant@1.0.so:system/product/lib64/vendor.display.postproc@1.0.so  \
-    vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/libsdmcore.so \
-    vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/libsdmextension.so \
-    vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/libsdm-disp-vndapis.so \ 
-    vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/libsdm-colormgr-algo.so \
-    vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/libsdm-colormgr-algo.so \
-    vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/libsdm-diag.so \
-    vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/libsdmextension.so \
-    vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/libsdmutils.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/libsdmcore.so:system/product/lib64/libsdmcore.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/libsdmextension.so:system/product/lib64/libsdmextension.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/libsdm-disp-vndapis.so:system/product/lib64/libsdm-disp-vndapis.so \ 
+    vendor/xiaomi/picasso/proprietary/product/lib64/libsdm-colormgr-algo.so:system/product/lib64/libsdm-colormgr-algo.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/libsdm-diag.so:system/product/lib64/libsdm-diag.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/libsdmextension.so:system/product/lib64/libsdmextension.so \
+    vendor/xiaomi/picasso/proprietary/product/lib64/libsdmutils.so:system/product/lib64/libsdmutils.so \
     vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvideocodec.so:system/product/lib64/lib-imsvideocodec.so \
     vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvt.so:system/product/lib64/lib-imsvt.so \
     vendor/xiaomi/picasso/proprietary/product/lib64/lib-imsvtextutils.so:system/product/lib64/lib-imsvtextutils.so \

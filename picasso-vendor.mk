@@ -77,7 +77,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/picasso/proprietary/lib64/libgallery_arcsoft_dualcam_refocus.so:system/lib64/libgallery_arcsoft_dualcam_refocus.so \
     vendor/xiaomi/picasso/proprietary/lib64/libgallery_mpbase.so:system/lib64/libgallery_mpbase.so \
     vendor/xiaomi/picasso/proprietary/lib64/libhandengine.arcsoft.so:system/lib64/libhandengine.arcsoft.so \
-    vendor/xiaomi/picasso/proprietary/lib64/libjni_dualcamera.so:system/lib64/libjni_dualcamera.so \
     vendor/xiaomi/picasso/proprietary/lib64/libjni_wideselfie.so:system/lib64/libjni_wideselfie.so \
     vendor/xiaomi/picasso/proprietary/lib64/libmmosal.so:system/lib64/libmmosal.so \
     vendor/xiaomi/picasso/proprietary/lib64/libmmparser_lite.so:system/lib64/libmmparser_lite.so \

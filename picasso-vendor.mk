@@ -73,7 +73,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/picasso/proprietary/lib64/libdeflicker_jni.so:system/lib64/libdeflicker_jni.so \
     vendor/xiaomi/picasso/proprietary/lib64/libdisplayfeature.so:system/lib64/libdisplayfeature.so \
     vendor/xiaomi/picasso/proprietary/lib64/libdisplayfeatureservice.so:system/lib64/libdisplayfeatureservice.so \
-    vendor/xiaomi/picasso/proprietary/lib64/libdualcameraddm.so:system/lib64/libdualcameraddm.so \
     vendor/xiaomi/picasso/proprietary/lib64/libfm-hci.so:system/lib64/libfm-hci.so \
     vendor/xiaomi/picasso/proprietary/lib64/libgallery_arcsoft_dualcam_refocus.so:system/lib64/libgallery_arcsoft_dualcam_refocus.so \
     vendor/xiaomi/picasso/proprietary/lib64/libgallery_mpbase.so:system/lib64/libgallery_mpbase.so \

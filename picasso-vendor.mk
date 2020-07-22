@@ -143,7 +143,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/picasso/proprietary/product/lib64/vendor.qti.hardware.wifidisplaysession@1.0.so:system/product/lib64/vendor.qti.hardware.wifidisplaysession@1.0.so \
     vendor/xiaomi/picasso/proprietary/product/lib64/vendor.qti.imsrtpservice@2.0.so:system/product/lib64/vendor.qti.imsrtpservice@2.0.so \
     vendor/xiaomi/picasso/proprietary/product/lib64/vendor.qti.imsrtpservice@2.1.so:system/product/lib64/vendor.qti.imsrtpservice@2.1.so \
-    vendor/xiaomi/picasso/proprietary/product/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml:system/product/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml
 
 PRODUCT_PACKAGES += \
     libantradio \

@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/picasso/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/xiaomi/picasso/proprietary/etc/sysconfig/qti_whitelist.xml:system/etc/sysconfig/qti_whitelist.xml \
     vendor/xiaomi/picasso/proprietary/etc/wfdconfigsink.xml:system/etc/wfdconfigsink.xml \
-    vendor/xiaomi/picasso/proprietary/framework/audiosphere.jar#:system/framework/audiosphere.jar# \
+    vendor/xiaomi/picasso/proprietary/framework/audiosphere.jar:system/framework/audiosphere.jar \
     vendor/xiaomi/picasso/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/xiaomi/picasso/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:system/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
     vendor/xiaomi/picasso/proprietary/lib/fm_helium.so:system/lib/fm_helium.so \
